@@ -30,3 +30,13 @@ If you have any problems with our products or further questions, please contact 
 ### Info
 
 If you'd like more information or have special request, please contact the [information](mailto:info@v3s.tech).
+
+
+### General
+
+If your question or request does not fall into each of those categories, please reach out to use via the [contact mail](mailto:contact@v3s.tech).
+
+© 2023 V3S
+All rights reserved
+
+
